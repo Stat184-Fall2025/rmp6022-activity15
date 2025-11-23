@@ -1,0 +1,7 @@
+1. Create the repository
+2. Create the README file
+3. Create the devBranch
+4. Raise issues about the missing qmd file and pdf file
+5. Push the qmd file and pdf file to devBranch
+6. Merge devBranch and main (closing the issues)
+7. Add final touches to README file
